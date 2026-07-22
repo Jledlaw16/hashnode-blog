@@ -104,3 +104,11 @@ En el próximo capítulo: cómo la inteligencia artificial — ChatGPT y Claude 
 ---
 
 *Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+
+---
+
+## Referencias
+
+- [Oracle APEX JavaScript API Reference 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/aeapi/)
+- [Oracle APEX App Builder User's Guide 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/htmdb/)
+- [Oracle APEX — Documentación oficial Release 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/)

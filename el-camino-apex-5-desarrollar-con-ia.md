@@ -105,3 +105,12 @@ En el último capítulo de esta serie: el lado humano de todo esto — la pausa,
 ---
 
 *Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+
+---
+
+## Referencias
+
+- [Oracle APEX — Documentación oficial Release 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/)
+- [Oracle SQLcl — Integración con MCP](https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/)
+- [Model Context Protocol (MCP) — Documentación de Anthropic](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)
+- [Oracle APEX API Reference 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/aeapi/)

@@ -136,3 +136,13 @@ En el próximo capítulo: las decisiones de arquitectura dentro de la aplicació
 ---
 
 *Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+
+---
+
+## Referencias
+
+- [apex.oracle.com — Información del servicio gratuito y sus limitaciones](https://apex.oracle.com/en/learn/getting-started/apex-oracle-com/)
+- [Always Free Oracle APEX Application Development en OCI](https://docs.oracle.com/en/cloud/paas/apex/gsadd/always-free-oracle-apex-application-development.html)
+- [Programar inicio y parada automática en Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/adbsa/autonomous-auto-stop-start.html)
+- [Oracle SQLcl — Documentación oficial](https://docs.oracle.com/en/database/oracle/sql-developer-command-line/)
+- [OCI Object Storage — Documentación](https://docs.oracle.com/en-us/iaas/Content/Object/home.htm)

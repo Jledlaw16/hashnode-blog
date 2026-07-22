@@ -107,3 +107,11 @@ En el próximo capítulo: las decisiones técnicas que definen una aplicación S
 ---
 
 *Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+
+---
+
+## Referencias
+
+- [Oracle APEX — Documentación oficial Release 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/)
+- [Oracle APEX App Builder User's Guide 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/htmdb/)
+- [Primeros pasos con Oracle APEX](https://apex.oracle.com/en/learn/getting-started/)

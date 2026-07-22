@@ -156,3 +156,13 @@ En el próximo capítulo: la implementación más retadora que he enfrentado en 
 ---
 
 *Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+
+---
+
+## Referencias
+
+- [Oracle SQLcl — Documentación oficial](https://docs.oracle.com/en/database/oracle/sql-developer-command-line/)
+- [Oracle SQLcl — Descarga y recursos](https://www.oracle.com/database/sqldeveloper/technologies/sqlcl/)
+- [CREATE SEQUENCE — Parámetro CACHE en Oracle Database](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/CREATE-SEQUENCE.html)
+- [Oracle APEX App Builder User's Guide 24.2](https://docs.oracle.com/en/database/oracle/apex/24.2/htmdb/)
+- [Oracle PL/SQL Language Reference — Packages](https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls/)
