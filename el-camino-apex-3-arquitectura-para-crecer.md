@@ -155,7 +155,7 @@ En el próximo capítulo: la implementación más retadora que he enfrentado en 
 
 ---
 
-*Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+*Jhosh Gomez Ledlaw es desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
 
 ---
 

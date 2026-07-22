@@ -104,7 +104,7 @@ En el último capítulo de esta serie: el lado humano de todo esto — la pausa,
 
 ---
 
-*Jhosh Gomez Ledlaw es Oracle ACE Apprentice, desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+*Jhosh Gomez Ledlaw es desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
 
 ---
 
