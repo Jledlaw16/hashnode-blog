@@ -2,7 +2,7 @@
 title: "El Camino APEX #1: La pregunta que cambió todo"
 slug: el-camino-apex-1-la-pregunta-que-cambio-todo
 tags: oracle-apex, oracle, saas, carrera, desarrollo-profesional
-subtitle: "Mi historia real como desarrollador Oracle APEX: de asistente administrativo a fundador de un SaaS, sin filtros y con los errores incluidos."
+subtitle: "Mi historia real como desarrollador Oracle APEX: de asistente administrativo a creador de un SaaS, sin filtros y con los errores incluidos."
 saveAsDraft: false
 ---
 
@@ -60,7 +60,7 @@ Con el tiempo desarrollé un estilo personal orientado a tres cosas que no negoc
 
 **Consistencia visual.** Cuando cada página de una aplicación tiene su propio criterio de diseño — colores distintos, botones en lugares diferentes, nomenclaturas que cambian — el usuario pierde confianza en el sistema. La coherencia visual no es estética por vanidad, es una señal de que alguien pensó en la experiencia completa.
 
-**Diseño responsivo desde el principio.** Hoy un emprendedor administra su negocio desde donde está — muchas veces desde su celular, desde una tablet en el mostrador. Construir solo para escritorio es construir para la mitad de la realidad. Oracle APEX ofrece las herramientas para hacerlo bien desde el inicio, y aprendí a aprovecharlas.
+**Diseño orientado al dispositivo.** Antes de construir la primera pantalla, hay que preguntarse dónde va a vivir ese sistema. Un módulo de reportes para gerencia no es lo mismo que una pantalla de punto de venta en un mostrador. Definir el dispositivo objetivo desde el inicio — desktop, tablet, celular, o varios — es parte del diseño, no un ajuste posterior. Oracle APEX ofrece las herramientas para cada caso; saber cuándo usar cuál es la habilidad.
 
 Estas no son reglas que alguien me enseñó en un manual. Son lecciones que se fueron grabando a través de proyectos, de feedback de usuarios reales, de ver en qué momentos un sistema genera alivio y en cuáles genera fricción.
 
@@ -92,11 +92,11 @@ Eso es exactamente lo que quiero cambiar con GESTIONA+: software que evoluciona 
 
 ---
 
-## La realidad de construir solo
+## La realidad de construir algo propio
 
-Hoy trabajo en GESTIONA+ en cada hora libre que tengo. Después del trabajo, los fines de semana, en momentos que antes eran para otras cosas. He sacrificado salidas, tiempo personal, descanso.
+Hoy tengo un trabajo de tiempo completo como desarrollador Oracle APEX — y en paralelo, trabajo en GESTIONA+ en cada hora libre que encuentro. Antes o después del trabajo, los fines de semana, en momentos que antes eran para otras cosas.
 
-No lo digo como queja — lo digo con claridad porque creo que ser honesto sobre este proceso es importante. Construir algo propio siendo un solopreneur es de las cosas más retadoras y más satisfactorias que he experimentado. Hay días donde el roadmap se siente imposible — demasiadas ideas, tiempo limitado, responsabilidades que no desaparecen. Hay momentos donde toca parar, analizar, reevaluar, y volver a empezar con más claridad.
+No lo digo como queja — lo digo con claridad porque creo que ser honesto sobre este proceso es importante. Esa dualidad tiene sus propios retos: la energía no es infinita, el tiempo tampoco, y hay responsabilidades en ambos frentes que no desaparecen. Hay días donde el roadmap de GESTIONA+ se siente imposible — demasiadas ideas, tiempo limitado. Hay momentos donde toca parar, analizar, reevaluar, y volver a empezar con más claridad.
 
 Pero el entusiasmo que sentí el día que elegí Oracle APEX sigue intacto. Más fuerte, de hecho. Con una visión más clara de hacia dónde voy y por qué.
 
