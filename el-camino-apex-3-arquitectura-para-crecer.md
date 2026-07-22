@@ -110,6 +110,35 @@ Un comentario en el código explicando el *por qué* de una decisión, un README
 
 ---
 
+## La lógica vive en la base de datos, no en las páginas
+
+Este es uno de los principios que más defiendo y que más diferencia hace en proyectos Oracle APEX de largo plazo: **la lógica pesada pertenece a la base de datos**.
+
+Cuando empiezas a desarrollar en APEX, la tentación es poner toda la lógica directamente en la página — validaciones en procesos de página, cálculos en items computados, reglas de negocio en Dynamic Actions encadenadas. Funciona. Pero a medida que el sistema crece, esa estrategia se convierte en un laberinto.
+
+El principio que aplico en GESTIONA+ es claro: si algo es complejo, va a la base de datos.
+
+**Procedimientos almacenados** para los procesos de negocio que tienen múltiples pasos — una venta, un cierre de caja, una transferencia entre sucursales. La página llama al procedimiento, el procedimiento hace el trabajo, la página muestra el resultado.
+
+**Funciones** para los cálculos que se reutilizan en múltiples lugares — descuentos, impuestos, totales. Una sola definición, usada desde donde sea necesario.
+
+**Paquetes** para agrupar la lógica relacionada. Un paquete por módulo funcional mantiene el código organizado y fácil de encontrar.
+
+¿Qué queda en la página? La presentación. La interacción con el usuario. El flujo de navegación. Nada más.
+
+Las ventajas de este enfoque son múltiples:
+
+- **Las páginas se vuelven simples.** Fáciles de entender, fáciles de mantener, fáciles de modificar sin miedo de romper algo.
+- **La lógica es reutilizable.** Si necesitas el mismo proceso desde dos páginas diferentes, no lo duplicas — llamas al mismo procedimiento.
+- **El debugging es más claro.** Cuando algo falla, sabes dónde buscar: en el procedimiento, no entre diez Dynamic Actions encadenadas.
+- **Las herramientas de base de datos te ayudan.** Puedes probar un procedimiento directamente desde SQL Developer o SQLcl sin necesidad de navegar la aplicación completa.
+
+Una página de APEX complicada con regiones innecesarias, procesos encadenados y lógica dispersa es técnicamente igual de funcional que una página limpia — hasta que algo falla o necesitas modificarla. En ese momento, la diferencia es enorme.
+
+Construye páginas simples. Pon la inteligencia en la base de datos. Oracle te da las herramientas para hacerlo bien — úsalas.
+
+---
+
 ## Lo que le diría a un desarrollador que empieza hoy
 
 **Define tu modelo de multi-tenancy antes de escribir la primera tabla.** No después, no cuando ya tienes 30 tablas y te das cuenta de que ninguna tiene un `company_id`. Antes.
