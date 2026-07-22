@@ -135,7 +135,7 @@ En el próximo capítulo: las decisiones de arquitectura dentro de la aplicació
 
 ---
 
-*Jhosh Gomez Ledlaw es desarrollador Oracle APEX y fundador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
+*Jhosh Gomez Ledlaw es desarrollador Oracle APEX y creador de GESTIONA+, una solución SaaS para emprendedores y pequeñas empresas.*
 
 ---
 
