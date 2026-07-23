@@ -5,8 +5,8 @@ seoDescription: "Multi-tenant desde el día uno y la lógica pesada en la base d
 datePublished: 2026-07-23T03:14:55.436Z
 cuid: cmrwxudkz00010ahx1scobpp3
 slug: el-camino-apex-3-arquitectura-para-crecer
-cover: https://cdn.hashnode.com/uploads/covers/69dc626abe21b1bd01263ced/42b21dfd-3b12-4c14-af19-d364ec42efb4.png
-ogImage: https://cdn.hashnode.com/uploads/og-images/69dc626abe21b1bd01263ced/924b7209-9f0e-4715-8d96-529b621e049b.png
+cover: https://cdn.hashnode.com/uploads/covers/69dc626abe21b1bd01263ced/9c1a2ef7-8010-4c9d-80ba-d6edf1bf7ab3.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/69dc626abe21b1bd01263ced/fa5cf8cc-cbd2-49af-9db3-6f0f57e4cf40.png
 tags: saas, oracle-database, multi-tenant, ci-cd, oracle-apex, arquitectura
 
 ---
